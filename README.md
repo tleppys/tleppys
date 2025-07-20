@@ -1,21 +1,20 @@
-<h1 align="center">Hi 👋, I'm tleppys</h1>
-<h3 align="center">Full Stack Developer | JS ⚡ | React ⚛️ | C++ ⚙️ | Next.js 🚀 | Go 🐹 | Python 🐍</h3>
+<h1 align="center">Merhaba 👋, ben tleppys</h1>
+<h3 align="center">Full Stack Geliştirici | JavaScript ⚡ | React ⚛️ | C++ ⚙️ | Next.js 🚀 | Go 🐹 | Python 🐍</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;C%2B%2B+Telegram+Bot+Creator;Always+learning+new+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=440&lines=Full+Stack+Geliştirici;C%2B%2B+Telegram+Bot+Geliştiricisi;Yeni+teknolojileri+öğrenmeyi+seviyorum" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on a **C++ Telegram bot**
-- 🌱 Learning advanced **Go** and **Next.js**
-- 💬 Ask me about `JavaScript`, `React`, `C++`, or anything backend
-- 📫 Reach me at: **tleppys@example.com**
-- ⚡ Fun fact: My code writes itself after midnight 🧛‍♂️
+- 🔭 Şu anda **C++ ile bir Telegram botu** üzerinde çalışıyorum     
+- 💬 Bana `JavaScript`, `C++`, `React`,`Python`, `Next.js`, `Go`   veya backend konularını sorabilirsin  
+- 📫 Bana ulaş: **https://t.me/esrarbagimlisi**  
+- ⚡ Gerçek: Kodlarımı en iyi gece 3'te yazarım 🌙
 
 ---
 
-### 🛠️ Tech Stack & Tools:
+### 🛠️ Kullandığım Teknolojiler:
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,7 +25,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub İstatistiklerim
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tleppys&show_icons=true&theme=radical" height="180px"/>
@@ -35,8 +34,8 @@
 
 ---
 
-### 🧠 Quote of the day
+### 🧠 Günün Sözü
 
-> “Talk is cheap. Show me the code.” – Linus Torvalds
+> “Sabahlara kadar uyutmayan dert bir gece kine dönüşür.” – Azazel
 
 ---
